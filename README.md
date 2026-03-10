@@ -97,6 +97,18 @@ Real-time visualization of AI agents. Open source gateway and dashboard.
 
 </td>
 </tr>
+<tr>
+<td align="center" colspan="3">
+
+### 💻 CodeIn.pro
+**Code in Every Language of Bharat**
+
+AI-powered code editor supporting Hindi, Tamil, Bengali & 20+ Indian languages. Open source. Runs locally. Your code never leaves your machine.
+
+[![GitHub](https://img.shields.io/badge/View-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/inbharat-ai/codein.pro)
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -137,6 +149,7 @@ Real-time visualization of AI agents. Open source gateway and dashboard.
 <div align="center">
 
 [![Agent Arcade](https://github-readme-stats.vercel.app/api/pin/?username=inbharatai&repo=agent-arcade-gateway&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/inbharatai/agent-arcade-gateway)
+[![CodeIn.pro](https://github-readme-stats.vercel.app/api/pin/?username=inbharat-ai&repo=codein.pro&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/inbharat-ai/codein.pro)
 
 </div>
 
