@@ -183,7 +183,7 @@ AI-powered code editor supporting Hindi, Tamil, Bengali & 20+ Indian languages. 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-inbharat.ai-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.inbharat.ai)
-[![Email](https://img.shields.io/badge/Email-hello@inbharat.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@inbharat.ai)
+[![Email](https://img.shields.io/badge/Email-info@inbharat.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@inbharat.ai)
 [![Twitter](https://img.shields.io/badge/Twitter-@inbharatai-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/inbharatai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-InBharat_AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/inbharatai)
 
