@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=220&section=header&text=InBharat%20AI&fontSize=65&fontAlignY=30&animation=twinkling&desc=Sovereign%20Intelligence%20for%20Bharat%20%F0%9F%87%AE%F0%9F%87%B3&descSize=22&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=220&section=header&text=InBharat%20AI&fontSize=65&fontAlignY=30&animation=twinkling&desc=Desh%20Ka%20AI%20%F0%9F%87%AE%F0%9F%87%B3&descSize=22&descAlignY=52" width="100%"/>
 
 <br/>
 
 <!-- Animated Typing -->
 <a href="https://www.inbharat.ai">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9933&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Building+AI+that+speaks+India's+languages;Voice-first+%7C+13+Languages+%7C+Open+Source;Empowering+1.4+Billion+with+Sovereign+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9933&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Building+AI+that+speaks+India's+languages;Voice-first+%7C+13+Languages+%7C+Open+Source;Desh+Ka+AI+--+India's+Own+AI+Platform" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -38,7 +38,7 @@
 
 ## About InBharat AI
 
-We build **sovereign AI for India** -- voice-first intelligence, agentic search, and deep multi-language support designed for every Indian. Our mission: make advanced AI accessible, practical, and inclusive for 1.4 billion people.
+We build **AI for India** -- voice-first intelligence, agentic search, and deep multi-language support designed for every Indian. Our mission: make advanced AI accessible, practical, and inclusive for 1.4 billion people.
 
 > *"AI built for Bharat, by builders who understand Bharat."*
 
@@ -197,7 +197,7 @@ Real-time visualization of AI agents. Open source gateway and dashboard.
 | **Voice-First** | Speak in any Indian language | Listen and Live -- real-time voice interaction |
 | **Agentic Search** | Research, creative, and coding modes | Verified sources with citations |
 | **13 Indian Languages** | Hindi, Tamil, Telugu, Bengali, and more | Native support, not just translation |
-| **Sovereign Stack** | Built for Bharat | Your data stays under your control |
+| **Made in India** | Built for Bharat | Your data stays under your control |
 | **Open Source** | Transparent and community-driven | All flagship repos are public |
 
 </div>
