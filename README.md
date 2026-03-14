@@ -27,7 +27,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=inbharatai&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/inbharatai?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Repos-5+-FF9933?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Repos-6+-FF9933?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
 </p>
 
 </div>
@@ -180,6 +180,18 @@ Real-time visualization of AI agents. Open source gateway and dashboard.
 
 </td>
 </tr>
+<tr>
+<td align="center" colspan="3">
+
+### SocialFlow
+**AI Social Media Automation**
+
+Generate and publish to LinkedIn, Instagram, and X. GPT content, DALL-E images, scheduling, encrypted credentials.
+
+[![GitHub](https://img.shields.io/badge/View-GitHub-7C3AED?style=for-the-badge&logo=github)](https://github.com/inbharatai/SocialFlow)
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -261,6 +273,8 @@ Real-time visualization of AI agents. Open source gateway and dashboard.
 
 [![Agent Arcade](https://github-readme-stats.vercel.app/api/pin/?username=inbharatai&repo=agent-arcade-gateway&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C8BF5&icon_color=4C8BF5)](https://github.com/inbharatai/agent-arcade-gateway)
 [![Claude Skills](https://github-readme-stats.vercel.app/api/pin/?username=inbharatai&repo=claude-skills&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6B4FBB&icon_color=6B4FBB)](https://github.com/inbharatai/claude-skills)
+
+[![SocialFlow](https://github-readme-stats.vercel.app/api/pin/?username=inbharatai&repo=SocialFlow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/inbharatai/SocialFlow)
 
 </div>
 
