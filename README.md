@@ -7,7 +7,7 @@
 
 <!-- Animated Typing -->
 <a href="https://www.inbharat.ai">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9933&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Building+AI+that+speaks+India's+languages;Voice-first+%7C+13+Languages+%7C+Open+Source;Desh+Ka+AI+--+India's+Own+AI+Platform" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9933&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Building+AI+that+speaks+India's+languages;Voice-first+%7C+22+Languages+%7C+Open+Source;Desh+Ka+AI+--+India's+Own+AI+Platform;9+Products+%7C+60%2B+LLM+Integrations+%7C+13+Agents" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -27,7 +27,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=inbharatai&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/inbharatai?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Repos-6+-FF9933?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Repos-15+-FF9933?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
 </p>
 
 </div>
@@ -38,7 +38,7 @@
 
 ## About InBharat AI
 
-We build **AI for India** -- voice-first intelligence, agentic search, and deep multi-language support designed for every Indian. Our mission: make advanced AI accessible, practical, and inclusive for 1.4 billion people.
+We build **AI for India** — voice-first intelligence, agentic search, multi-agent systems, and deep multi-language support designed for every Indian. Our mission: make advanced AI accessible, practical, and inclusive for 1.4 billion people.
 
 > *"AI built for Bharat, by builders who understand Bharat."*
 
@@ -46,10 +46,10 @@ We build **AI for India** -- voice-first intelligence, agentic search, and deep 
 
 <table>
 <tr>
-<td align="center"><h3>7+</h3><sub>AI Products</sub></td>
-<td align="center"><h3>13</h3><sub>Indian Languages</sub></td>
+<td align="center"><h3>9</h3><sub>AI Products</sub></td>
+<td align="center"><h3>22</h3><sub>Indian Languages</sub></td>
 <td align="center"><h3>1.4B</h3><sub>People to Serve</sub></td>
-<td align="center"><h3>57+</h3><sub>API Endpoints</sub></td>
+<td align="center"><h3>60+</h3><sub>LLM Integrations</sub></td>
 <td align="center"><h3>100%</h3><sub>Open Source</sub></td>
 </tr>
 </table>
@@ -62,44 +62,56 @@ We build **AI for India** -- voice-first intelligence, agentic search, and deep 
 
 <br/>
 
-## Flagship Projects
+## Flagship Products
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### Sahaayak AI
+### CodeIn.pro
+**Open-Source AI Coding IDE**
 
-**Multilingual Personal AI OS for Bharat**
+13 autonomous agents · 60+ LLM providers · 22 Indian languages · Local-first inference via llama.cpp · VS Code + JetBrains + Electron · 2,400+ tests
 
-13 languages &middot; Voice I/O &middot; Chat &middot; OCR &middot; Notes &middot; News &middot; Reminders &middot; Push Notifications &middot; Email &middot; Translation
-
-[![Sahaayak AI](https://img.shields.io/badge/View_Repo-sahaayak--ai-FF9933?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inbharatai/sahaayak-ai)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-6B4FBB?style=flat-square&logo=anthropic&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### Sahaayak Seva
-
-**AI Field Assistant for India's 1.4M Anganwadi Workers**
-
-Child Growth &middot; Maternal Health &middot; WHO Standards &middot; Gov Schemes &middot; Nutrition &middot; Voice &middot; OCR &middot; Reports &middot; 13 Languages
-
-[![SahaayakSeva](https://img.shields.io/badge/View_Repo-SahaayakSeva-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inbharatai/SahaayakSeva)
+[![CodeIn.pro](https://img.shields.io/badge/View_Repo-codein.pro-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inbharat-ai/codein.pro)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### Agent Arcade
+**Universal AI Agent Observability Platform**
+
+Pixel-art live dashboard · 10+ framework adapters · WhatsApp agent control · Execution traces · Session replay · Cost analytics · Goal Mode orchestration
+
+[![Agent Arcade](https://img.shields.io/badge/View_Repo-agent--arcade-4C8BF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inbharatai/agent-arcade-gateway)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-6B4FBB?style=flat-square&logo=anthropic&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### Phoring
+**Decision Intelligence Platform**
+
+Upload documents · Build knowledge graphs · Run multi-agent OASIS simulations · Source-cited forecast reports · Multi-AI consensus validation
+
+[![Phoring](https://img.shields.io/badge/View_Repo-phoring-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inbharatai/phoring)
+&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4081?style=for-the-badge&logo=vercel&logoColor=white)](https://phoring.onrender.com/)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 </td>
 </tr>
@@ -113,7 +125,7 @@ Child Growth &middot; Maternal Health &middot; WHO Standards &middot; Gov Scheme
 
 <br/>
 
-## Our Products
+## All Products
 
 <table>
 <tr>
@@ -122,7 +134,7 @@ Child Growth &middot; Maternal Health &middot; WHO Standards &middot; Gov Scheme
 ### InBharat AI
 **Desh Ka AI**
 
-Voice-first, multi-language AI with agentic search. Research, creative, and coding modes.
+Voice-first, multi-language AI with agentic search. Research, creative, and coding modes. 13 Indian languages.
 
 [![Try Now](https://img.shields.io/badge/Try_Now-InBharat_AI-FF6B35?style=for-the-badge)](https://inbharat.ai/app)
 
@@ -132,7 +144,7 @@ Voice-first, multi-language AI with agentic search. Research, creative, and codi
 ### UniAssist.ai
 **Education AI Platform**
 
-AI co-pilot for education -- university finder, test prep, visa assistant, scholarships.
+11 AI modules — university finder, visa prep, scholarships, career guidance. 11 languages, deterministic scoring, live web research.
 
 [![Explore](https://img.shields.io/badge/Explore-UniAssist.ai-00C853?style=for-the-badge)](https://www.uniassist.ai)
 
@@ -142,7 +154,7 @@ AI co-pilot for education -- university finder, test prep, visa assistant, schol
 ### TestsPrep.in
 **AI Test Preparation**
 
-3D Science Labs, built-in IDE, unlimited practice, Daily GK Digest.
+13+ exams (NEET, JEE, IELTS, UPSC). 3D science labs, built-in IDE, daily GK digest, psychometric career diagnostic.
 
 [![Start Learning](https://img.shields.io/badge/Start_Learning-TestsPrep-4C8BF5?style=for-the-badge)](https://testsprep.in)
 
@@ -154,41 +166,29 @@ AI co-pilot for education -- university finder, test prep, visa assistant, schol
 ### UniBot
 **WhatsApp Education AI**
 
-Education-only AI on WhatsApp. Voice notes, OCR, mini diagnostics.
+Education-only AI on WhatsApp. Voice notes, OCR, mini diagnostics — accessible on the platform India already uses.
 
 [![Chat Now](https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/15558698916)
 
 </td>
 <td align="center">
 
-### CodeIn.pro
-**Code in Every Language of Bharat**
+### SocialFlow
+**AI Social Media Automation**
 
-AI code editor supporting 20+ Indian languages. Open source. Runs locally.
+Generate and publish to LinkedIn, Instagram, and X. GPT-4o + Claude + Gemini for text, DALL-E 3 for images, Kling AI for video. AES-256 encrypted credentials.
 
-[![GitHub](https://img.shields.io/badge/View-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/inbharat-ai/codein.pro)
+[![GitHub](https://img.shields.io/badge/View-GitHub-7C3AED?style=for-the-badge&logo=github)](https://github.com/inbharatai/SocialFlow)
 
 </td>
 <td align="center">
 
-### Agent Arcade
-**AI Agent Telemetry**
+### OpenClawFix.pro
+**AI Debugging Platform**
 
-Real-time visualization of AI agents. Open source gateway and dashboard.
+Intelligent code analysis, automated bug fixing, and AI-powered diagnostics.
 
-[![GitHub](https://img.shields.io/badge/View-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/inbharatai/agent-arcade-gateway)
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="3">
-
-### SocialFlow
-**AI Social Media Automation**
-
-Generate and publish to LinkedIn, Instagram, and X. GPT content, DALL-E images, scheduling, encrypted credentials.
-
-[![GitHub](https://img.shields.io/badge/View-GitHub-7C3AED?style=for-the-badge&logo=github)](https://github.com/inbharatai/SocialFlow)
+[![GitHub](https://img.shields.io/badge/View-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/inbharatai/openclawfix.pro)
 
 </td>
 </tr>
@@ -206,9 +206,12 @@ Generate and publish to LinkedIn, Instagram, and X. GPT content, DALL-E images, 
 
 | | Capability | Details |
 |:--:|:-----------|:--------|
-| **Voice-First** | Speak in any Indian language | Listen and Live -- real-time voice interaction |
-| **Agentic Search** | Research, creative, and coding modes | Verified sources with citations |
-| **13 Indian Languages** | Hindi, Tamil, Telugu, Bengali, and more | Native support, not just translation |
+| **Voice-First** | Speak in any Indian language | Real-time voice interaction across 22 languages |
+| **Multi-Agent Systems** | 13 autonomous agents in CodeIn, OASIS simulations in Phoring | Orchestrated swarms, not single-turn chat |
+| **60+ LLM Providers** | OpenAI, Anthropic, Gemini, Ollama, Mistral, and 55 more | Swap providers at runtime — no lock-in |
+| **Agent Observability** | Watch any AI agent work in real-time | Pixel-art dashboard, WhatsApp control, cost tracking |
+| **22 Indian Languages** | Hindi, Tamil, Telugu, Bengali, and 18 more | Native support with code-mixed input (Hinglish, Benglish, Tanglish) |
+| **Decision Intelligence** | Document → Knowledge Graph → Simulation → Forecast | Source-cited predictions with multi-AI consensus |
 | **Made in India** | Built for Bharat | Your data stays under your control |
 | **Open Source** | Transparent and community-driven | All flagship repos are public |
 
@@ -229,21 +232,30 @@ Generate and publish to LinkedIn, Instagram, and X. GPT content, DALL-E images, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 ### AI and ML
 ![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-FF6F00?style=for-the-badge)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge)
 ![Tesseract](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OASIS](https://img.shields.io/badge/OASIS-FF6B35?style=for-the-badge)
 
 ### Infrastructure
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 </div>
 
@@ -268,13 +280,38 @@ Generate and publish to LinkedIn, Instagram, and X. GPT content, DALL-E images, 
 
 <div align="center">
 
-[![Sahaayak AI](https://github-readme-stats.vercel.app/api/pin/?username=inbharatai&repo=sahaayak-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF9933&icon_color=FF9933)](https://github.com/inbharatai/sahaayak-ai)
-[![SahaayakSeva](https://github-readme-stats.vercel.app/api/pin/?username=inbharatai&repo=SahaayakSeva&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=059669&icon_color=059669)](https://github.com/inbharatai/SahaayakSeva)
-
+[![CodeIn.pro](https://github-readme-stats.vercel.app/api/pin/?username=inbharat-ai&repo=codein.pro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35)](https://github.com/inbharat-ai/codein.pro)
 [![Agent Arcade](https://github-readme-stats.vercel.app/api/pin/?username=inbharatai&repo=agent-arcade-gateway&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C8BF5&icon_color=4C8BF5)](https://github.com/inbharatai/agent-arcade-gateway)
+
+[![Phoring](https://github-readme-stats.vercel.app/api/pin/?username=inbharatai&repo=phoring&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=059669&icon_color=059669)](https://github.com/inbharatai/phoring)
+[![SocialFlow](https://github-readme-stats.vercel.app/api/pin/?username=inbharatai&repo=SocialFlow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/inbharatai/SocialFlow)
+
+[![TestsPrep.in](https://github-readme-stats.vercel.app/api/pin/?username=inbharatai&repo=testsprep.in&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C8BF5&icon_color=4C8BF5)](https://github.com/inbharatai/testsprep.in)
 [![Claude Skills](https://github-readme-stats.vercel.app/api/pin/?username=inbharatai&repo=claude-skills&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6B4FBB&icon_color=6B4FBB)](https://github.com/inbharatai/claude-skills)
 
-[![SocialFlow](https://github-readme-stats.vercel.app/api/pin/?username=inbharatai&repo=SocialFlow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/inbharatai/SocialFlow)
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,25,27&height=2&section=header" width="100%"/>
+
+<br/>
+
+## Repository Map
+
+<div align="center">
+
+| Repository | Description | Stack |
+|:-----------|:------------|:------|
+| [**codein.pro**](https://github.com/inbharat-ai/codein.pro) | Open-source AI coding IDE — 13 agents, 60+ LLM providers, 22 Indian languages, local-first | TypeScript, React, Electron |
+| [**agent-arcade-gateway**](https://github.com/inbharatai/agent-arcade-gateway) | Universal AI agent observability — live dashboard, WhatsApp control, traces, replay, cost analytics | TypeScript, Next.js, Bun |
+| [**phoring**](https://github.com/inbharatai/phoring) | Decision intelligence — documents → knowledge graphs → OASIS simulations → source-cited forecasts | Python, Vue.js, Flask |
+| [**Inbharat.ai**](https://github.com/inbharatai/Inbharat.ai) | Voice-first AI platform — agentic search, 13 languages, research/creative/coding modes | Python, FastAPI, Next.js |
+| [**uniassist.ai**](https://github.com/inbharatai/uniassist.ai) | Education AI — 11 modules, university finder, visa prep, scholarships, career guidance | Next.js, TypeScript, Supabase |
+| [**testsprep.in**](https://github.com/inbharatai/testsprep.in) | AI test prep — 13+ exams, 3D labs, IDE, psychometric diagnostic, daily GK | Next.js, TypeScript, PostgreSQL |
+| [**SocialFlow**](https://github.com/inbharatai/SocialFlow) | AI social media automation — LinkedIn, Instagram, X with GPT + DALL-E + Kling AI | Python, FastAPI, Playwright |
+| [**openclawfix.pro**](https://github.com/inbharatai/openclawfix.pro) | AI debugging and code analysis platform | TypeScript |
+| [**claude-skills**](https://github.com/inbharatai/claude-skills) | Reusable Claude Code skill definitions for IDE workflows | Markdown |
 
 </div>
 
@@ -319,7 +356,7 @@ Generate and publish to LinkedIn, Instagram, and X. GPT content, DALL-E images, 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-6B4FBB?style=flat-square&logo=anthropic&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </div>
