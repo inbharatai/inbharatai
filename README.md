@@ -7,7 +7,7 @@
 
 <!-- Animated Typing -->
 <a href="https://www.inbharat.ai">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9933&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Building+AI+that+speaks+India's+languages;Voice-first+%7C+22+Languages+%7C+Open+Source;Desh+Ka+AI+--+India's+Own+AI+Platform;9+Products+%7C+60%2B+LLM+Integrations+%7C+13+Agents" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9933&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Building+AI+that+speaks+India's+languages;Voice-first+%7C+22+Languages+%7C+Open+Source;Desh+Ka+AI+--+India's+Own+AI+Platform;11+Products+%7C+60%2B+LLM+Integrations+%7C+13+Agents" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -46,7 +46,7 @@ We build **AI for India** — voice-first intelligence, agentic search, multi-ag
 
 <table>
 <tr>
-<td align="center"><h3>9</h3><sub>AI Products</sub></td>
+<td align="center"><h3>11</h3><sub>AI Products</sub></td>
 <td align="center"><h3>22</h3><sub>Indian Languages</sub></td>
 <td align="center"><h3>1.4B</h3><sub>People to Serve</sub></td>
 <td align="center"><h3>60+</h3><sub>LLM Integrations</sub></td>
@@ -190,6 +190,30 @@ Intelligent code analysis, automated bug fixing, and AI-powered diagnostics.
 
 [![GitHub](https://img.shields.io/badge/View-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/inbharatai/openclawfix.pro)
 
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### Sahaayak AI
+**Multilingual Personal AI OS for Bharat**
+
+13 languages · Voice I/O · Chat · OCR · Notes · News · Reminders · Push Notifications · Email · Translation
+
+[![Sahaayak AI](https://img.shields.io/badge/View_Repo-sahaayak--ai-FF9933?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inbharatai/sahaayak-ai)
+
+</td>
+<td align="center">
+
+### SahaayakSeva
+**AI Field Assistant for Anganwadi Workers**
+
+Child growth · Maternal health · WHO standards · Gov schemes · Nutrition · Voice · OCR · Reports · 13 languages
+
+[![SahaayakSeva](https://img.shields.io/badge/View_Repo-SahaayakSeva-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inbharatai/SahaayakSeva)
+
+</td>
+<td align="center">
 </td>
 </tr>
 </table>
