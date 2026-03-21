@@ -7,7 +7,7 @@
 
 <!-- Animated Typing -->
 <a href="https://www.inbharat.ai">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9933&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Building+AI+that+speaks+India's+languages;Voice-first+%7C+22+Languages+%7C+Open+Source;Desh+Ka+AI+--+India's+Own+AI+Platform;11+Products+%7C+60%2B+LLM+Integrations+%7C+13+Agents" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9933&center=true&vCenter=true&repeat=true&width=800&height=50&lines=AI+Consulting+%26+Tool+Building+for+Bharat;Voice-first+%7C+14%2B+Indian+Languages+%7C+Open+Source;Websites+%7C+Chatbots+%7C+Automations+%7C+Custom+AI;50%2B+Projects+Built+%7C+5+Products+%7C+8+Service+Types" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -38,18 +38,18 @@
 
 ## About InBharat AI
 
-We build **AI for India** — voice-first intelligence, agentic search, multi-agent systems, and deep multi-language support designed for every Indian. Our mission: make advanced AI accessible, practical, and inclusive for 1.4 billion people.
+We build **AI-powered websites, chatbots, automations, and custom tools** for businesses across Bharat — so you grow faster with less effort. Tell us your problem, we'll build the solution. Voice-first, multi-language, and India-first.
 
-> *"AI built for Bharat, by builders who understand Bharat."*
+> *"AI Consulting & Tool Building for Bharat — describe your challenge, get a working solution."*
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center"><h3>11</h3><sub>AI Products</sub></td>
-<td align="center"><h3>22</h3><sub>Indian Languages</sub></td>
-<td align="center"><h3>1.4B</h3><sub>People to Serve</sub></td>
-<td align="center"><h3>60+</h3><sub>LLM Integrations</sub></td>
+<td align="center"><h3>50+</h3><sub>Projects Built</sub></td>
+<td align="center"><h3>14+</h3><sub>Indian Languages</sub></td>
+<td align="center"><h3>5</h3><sub>Products Live</sub></td>
+<td align="center"><h3>8</h3><sub>Service Types</sub></td>
 <td align="center"><h3>100%</h3><sub>Open Source</sub></td>
 </tr>
 </table>
@@ -134,7 +134,7 @@ Upload documents · Build knowledge graphs · Run multi-agent OASIS simulations 
 ### InBharat AI
 **Desh Ka AI**
 
-Voice-first, multi-language AI with agentic search. Research, creative, and coding modes. 13 Indian languages.
+AI consulting and solutions advisor — describe your business challenge, get a practical recommendation. Voice-first, multi-language, with intelligence units for research, code, education, and browsing.
 
 [![Try Now](https://img.shields.io/badge/Try_Now-InBharat_AI-FF6B35?style=for-the-badge)](https://inbharat.ai/app)
 
@@ -184,9 +184,9 @@ Generate and publish to LinkedIn, Instagram, and X. GPT-4o + Claude + Gemini for
 <td align="center">
 
 ### OpenClawFix.pro
-**AI Debugging Platform**
+**One-Click OpenClaw Installer**
 
-Intelligent code analysis, automated bug fixing, and AI-powered diagnostics.
+Automated Docker setup, gateway token config, and AI provider guidance — get OpenClaw running in 3–5 minutes.
 
 [![GitHub](https://img.shields.io/badge/View-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/inbharatai/openclawfix.pro)
 
@@ -230,13 +230,14 @@ Child growth · Maternal health · WHO standards · Gov schemes · Nutrition · 
 
 | | Capability | Details |
 |:--:|:-----------|:--------|
-| **Voice-First** | Speak in any Indian language | Real-time voice interaction across 22 languages |
-| **Multi-Agent Systems** | 13 autonomous agents in CodeIn, OASIS simulations in Phoring | Orchestrated swarms, not single-turn chat |
-| **60+ LLM Providers** | OpenAI, Anthropic, Gemini, Ollama, Mistral, and 55 more | Swap providers at runtime — no lock-in |
+| **AI Consulting** | Describe a business problem, get a working solution | Websites, chatbots, CRM, automations, custom AI tools |
+| **Voice-First** | Speak in any Indian language, get answers instantly | Real-time voice interaction across 14+ languages |
+| **Intelligence Units** | Research, Coder, Educator, Browser, Executive, Shopper | Multiple modes — not a single-turn chatbot |
+| **Multi-Agent Systems** | 13 autonomous agents in CodeIn, OASIS simulations in Phoring | Orchestrated swarms for complex tasks |
 | **Agent Observability** | Watch any AI agent work in real-time | Pixel-art dashboard, WhatsApp control, cost tracking |
-| **22 Indian Languages** | Hindi, Tamil, Telugu, Bengali, and 18 more | Native support with code-mixed input (Hinglish, Benglish, Tanglish) |
+| **14+ Indian Languages** | Hindi, Tamil, Telugu, Bengali, and more | Native support with code-mixed input (Hinglish, Benglish, Tanglish) |
 | **Decision Intelligence** | Document → Knowledge Graph → Simulation → Forecast | Source-cited predictions with multi-AI consensus |
-| **Made in India** | Built for Bharat | Your data stays under your control |
+| **India-First & Private** | Built for Bharat, by builders who understand Bharat | Your data stays under your control — we don't train on it |
 | **Open Source** | Transparent and community-driven | All flagship repos are public |
 
 </div>
@@ -330,11 +331,11 @@ Child growth · Maternal health · WHO standards · Gov schemes · Nutrition · 
 | [**codein.pro**](https://github.com/inbharat-ai/codein.pro) | Open-source AI coding IDE — 13 agents, 60+ LLM providers, 22 Indian languages, local-first | TypeScript, React, Electron |
 | [**agent-arcade-gateway**](https://github.com/inbharatai/agent-arcade-gateway) | Universal AI agent observability — live dashboard, WhatsApp control, traces, replay, cost analytics | TypeScript, Next.js, Bun |
 | [**phoring**](https://github.com/inbharatai/phoring) | Decision intelligence — documents → knowledge graphs → OASIS simulations → source-cited forecasts | Python, Vue.js, Flask |
-| [**Inbharat.ai**](https://github.com/inbharatai/Inbharat.ai) | Voice-first AI platform — agentic search, 13 languages, research/creative/coding modes | Python, FastAPI, Next.js |
+| [**Inbharat.ai**](https://github.com/inbharatai/Inbharat.ai) | AI consulting advisor — intelligence units (research, code, educator, browser), voice-first, 14+ Indian languages | Python, FastAPI, Next.js |
 | [**uniassist.ai**](https://github.com/inbharatai/uniassist.ai) | Education AI — 11 modules, university finder, visa prep, scholarships, career guidance | Next.js, TypeScript, Supabase |
 | [**testsprep.in**](https://github.com/inbharatai/testsprep.in) | AI test prep — 13+ exams, 3D labs, IDE, psychometric diagnostic, daily GK | Next.js, TypeScript, PostgreSQL |
 | [**SocialFlow**](https://github.com/inbharatai/SocialFlow) | AI social media automation — LinkedIn, Instagram, X with GPT + DALL-E + Kling AI | Python, FastAPI, Playwright |
-| [**openclawfix.pro**](https://github.com/inbharatai/openclawfix.pro) | AI debugging and code analysis platform | TypeScript |
+| [**openclawfix.pro**](https://github.com/inbharatai/openclawfix.pro) | One-click OpenClaw installer — Docker setup, gateway token, AI provider config in 3–5 min | TypeScript |
 | [**claude-skills**](https://github.com/inbharatai/claude-skills) | Reusable Claude Code skill definitions for IDE workflows | Markdown |
 
 </div>
@@ -366,7 +367,7 @@ Child growth · Maternal health · WHO standards · Gov schemes · Nutrition · 
 
 ### Jai Hind
 
-**Made with love in India for the World**
+**AI Consulting & Tool Building for Bharat**
 
 <br/>
 
